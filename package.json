@@ -1,0 +1,19 @@
+{
+  "name": "workout-planner",
+  "version": "1.0.0",
+  "description": "My personal project to create exercises, workouts and routines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielmmf/workout-planner.git"
+  },
+  "author": "gabrielmmf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielmmf/workout-planner/issues"
+  },
+  "homepage": "https://github.com/gabrielmmf/workout-planner#readme"
+}
